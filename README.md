@@ -1,2 +1,3 @@
 # Bone_marrow_segmentation
-Bone marrow segmentation 
+
+Shared repository for testing and improving bone marrow tissue segmentation.
